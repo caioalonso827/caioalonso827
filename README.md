@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou Caio Borsato Alonso 👋</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4144/4144443.png" alt="Programando" width="250"/>
+  <img src="https://raw.githubusercontent.com/konpa/devicon/master/icons/vscode/vscode-original.svg" alt="Programando" width="150"/>
 </p>
 ---
 
