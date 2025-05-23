@@ -1,9 +1,8 @@
 <h1 align="center">Olá! Eu sou Caio Borsato Alonso 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+inovação" alt="Typing SVG" />
+  <img src="https://cdn-icons-png.flaticon.com/512/4144/4144443.png" alt="Programando" width="250"/>
 </p>
-
 ---
 
 ## 🚀 Sobre mim
