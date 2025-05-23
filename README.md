@@ -5,10 +5,12 @@
 </p>
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre Mim
 
-🎓 Desenvolvedor apaixonado por criar soluções criativas e eficientes.  
-💼 Atualmente estudando Desenvolvimento de Sistemas no Firjan Senai Petrópolis.  
+🎓 Estudando Edição de Vídeo.  
+💼 Atualmente Cursando Desenvolvimento de Sistemas no Firjan Senai Petrópolis.
+🧑‍🎓 Curso de Inglês Básico Completo.
+🏫 Cursando 2° Ano do Ensino Médio Firja Sesi.
 🌱 Aprendendo constantemente sobre novas tecnologias e boas práticas.
 
 ---
