@@ -37,6 +37,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-alonso-455358261)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/c.alonso33)
+[![Behance](https://img.shields.io/badge/-Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://behance.net/mtg_alonso)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/caioalonso827)
 
 ---
 
