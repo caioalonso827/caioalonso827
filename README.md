@@ -7,14 +7,14 @@ Minha jornada na programação começou a partir da curiosidade em entender como
 Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e **C#/.NET**, além de estar iniciando meus estudos em **WPF**, sempre buscando evoluir tecnicamente e aplicar boas práticas de programação.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/caioalonso827?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/caioalonso827?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/caioalonso827?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
