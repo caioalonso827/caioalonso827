@@ -1,47 +1,48 @@
-<h1 align="center">Olá! Eu sou Caio Borsato Alonso 👋</h1>
+# 👋 Olá, eu sou o Caio Borsato Alonso
 
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3103/3103446.png" alt="Computador com código" width="250"/>
-</p>
----
+🎓 Sou estudante do **Ensino Médio Técnico em Desenvolvimento de Sistemas**, com grande interesse em tecnologia e uma paixão crescente pelo **desenvolvimento back-end**.
 
-## 🚀 Sobre Mim
+Minha jornada na programação começou a partir da curiosidade em entender como os sistemas funcionam por trás das telas. Com o tempo, passei a estudar lógica, estrutura de sistemas e desenvolvimento de aplicações, o que consolidou meu objetivo de construir uma carreira sólida na área de software.
 
-- 🎓 Estudando Edição de Vídeo.  
-- 💼 Atualmente Cursando Desenvolvimento de Sistemas no Firjan Senai Petrópolis.
-- 🧑‍🎓 Curso de Inglês Básico Completo.
-- 🏫 Cursando 2° Ano do Ensino Médio Firja Sesi.
-- 🌱 Aprendendo constantemente sobre novas tecnologias e boas práticas.
+Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e **C#/.NET**, além de estar iniciando meus estudos em **WPF**, sempre buscando evoluir tecnicamente e aplicar boas práticas de programação.
+
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🚀 Linguagens e Tecnologias
 
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=github_dark" alt="Caio Borsato Alonso stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=github_dark" alt="Caio Borsato ALonso languages"/>
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0A0A0A?style=for-the-badge&logo=windows&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🌐 Onde me encontrar
+## 📊 Estatísticas do GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-alonso-455358261)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/c.alonso33)  
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mtg_alonso)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caioalonso827)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
 
 ---
 
-<p align="center">✨ Obrigado por visitar! ✨</p>
+## 🎯 Objetivos Atuais
+
+- 📚 Aprofundar conhecimentos em **Java e Spring Boot**
+- 🧠 Evoluir em **C#/.NET e WPF**
+- 🛠 Desenvolver projetos back-end e APIs
+- 🚀 Conquistar uma oportunidade como **estagiário ou desenvolvedor júnior**
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** seuemail@email.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/seuperfil  
+
+---
+
+💬 Curte tecnologia, desenvolvimento ou trocar ideias sobre programação?  
+**Vamos conversar!**
