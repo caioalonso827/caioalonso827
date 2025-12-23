@@ -39,8 +39,8 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 
 ## 📫 Contato
 
-📧 **E-mail:** seuemail@email.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/seuperfil  
+📧 **E-mail:** caioca827@gmail.com 
+💼 **LinkedIn:** https://www.linkedin.com/in/caio-alonso-455358261/
 
 ---
 
