@@ -23,8 +23,9 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&theme=tokyonight)
 
 ---
 
