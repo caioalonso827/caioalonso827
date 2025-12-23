@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Caio Borsato Alonso
+# 👨‍💻 Olá, eu sou o Caio Borsato Alonso
 
-🎓 Sou estudante do **Ensino Médio Técnico em Desenvolvimento de Sistemas**, com grande interesse em tecnologia e uma paixão crescente pelo **desenvolvimento back-end**.
+Sou estudante do **Ensino Médio Técnico em Desenvolvimento de Sistemas**, com grande interesse em tecnologia e uma paixão crescente pelo **desenvolvimento back-end**.
 
 Minha jornada na programação começou a partir da curiosidade em entender como os sistemas funcionam por trás das telas. Com o tempo, passei a estudar lógica, estrutura de sistemas e desenvolvimento de aplicações, o que consolidou meu objetivo de construir uma carreira sólida na área de software.
 
