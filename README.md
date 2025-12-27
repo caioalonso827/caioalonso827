@@ -46,11 +46,11 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 <p align="left">
   <img
     width="400"
-    src="https://metrics.lecoq.io/caioalonso827?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&base.activity=1&theme=tokyonight"
+    src="https://github-readme-stats-caioalonso827.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true"
   />
   <img
     width="400"
-    src="https://metrics.lecoq.io/caioalonso827?template=classic&base=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=2%25&theme=tokyonight"
+    src="https://github-readme-stats-caioalonso827.vercel.app/api/top-langs/?username=caioalonso827&theme=tokyonight&layout=compact&langs_count=9"
   />
 </p>
 
