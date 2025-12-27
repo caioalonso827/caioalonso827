@@ -13,30 +13,18 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: caioalonso827
-          theme: tokyonight
-          show_icons: true
-          include_all_commits: true
-          scale: 2
-          output: ./assets/github-stat.png
+      - name: Download GitHub Stats image
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png
 
-      - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@master
-        with:
-          username: caioalonso827
-          layout: compact
-          langs_count: 9
-          theme: tokyonight
-          scale: 2
-          output: ./assets/top-lang.png
+      - name: Download Top Languages image
+        run: |
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png
 
       - name: Commit and push images
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git add assets/github-stat.png assets/top-lang.png
-          git commit -m "chore: update github stats" || exit 0
+          git commit -m "chore: update github stats images" || exit 0
           git push
