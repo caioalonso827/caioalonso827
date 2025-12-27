@@ -18,11 +18,11 @@ jobs:
 
       - name: Download GitHub Stats image
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png
+          curl -fL "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png
 
       - name: Download Top Languages image
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png
+          curl -fL "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png
 
       - name: Commit and push images
         run: |
