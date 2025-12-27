@@ -43,9 +43,10 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png)
-
-![Top Langs](https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&theme=tokyonight&layout=compact&langs_count=9&format=png)
+<p align="left">
+  <img src="./assets/github-stats.png" height="200" />
+  <img src="./assets/top-langs.png" height="200" />
+</p>
 
 ---
 
