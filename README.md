@@ -43,12 +43,7 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 
 ## 📊 Estatísticas do GitHub
 
-![Metrics](https://metrics.lecoq.io/caioalonso827?template=classic&isocalendar=1&languages=1&languages.limit=8&theme=tokyonight)
-  <img
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=caioalonso827&theme=tokyonight&layout=compact&langs_count=9"
-  />
-</p>
+![GitHub Metrics](https://metrics.lecoq.io/caioalonso827?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&theme=tokyonight)
 
 ---
 
