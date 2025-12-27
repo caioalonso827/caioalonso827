@@ -44,8 +44,8 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="./assets/github-stats.png" height="200" />
-  <img src="./assets/top-langs.png" height="200" />
+  <img src="./assets/github-stats.jpg" height="200" />
+  <img src="./assets/top-langs.jpg" height="200" />
 </p>
 
 ---
