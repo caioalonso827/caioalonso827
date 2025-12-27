@@ -46,11 +46,11 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 <p align="left">
   <img
     height="200"
-    src="https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true"
+    src="https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&v=3"
   />
   <img
     height="200"
-    src="https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&theme=tokyonight&layout=compact&langs_count=9"
+    src="https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&theme=tokyonight&layout=compact&langs_count=9&v=3"
   />
 </p>
 
