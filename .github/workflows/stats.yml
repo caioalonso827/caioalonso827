@@ -16,26 +16,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download GitHub Stats image (retry)
+      - name: Download GitHub Stats (SVG)
         run: |
-          for i in 1 2 3; do
-            curl -L "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png && break
-            echo "Tentativa $i falhou, tentando novamente..."
-            sleep 10
-          done
+          curl -L \
+          "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true" \
+          -o assets/github-stat.svg
 
-      - name: Download Top Languages image (retry)
+      - name: Download Top Languages (SVG)
         run: |
-          for i in 1 2 3; do
-            curl -L "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png && break
-            echo "Tentativa $i falhou, tentando novamente..."
-            sleep 10
-          done
+          curl -L \
+          "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight" \
+          -o assets/top-lang.svg
 
       - name: Commit and push images
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add assets/github-stat.png assets/top-lang.png
-          git commit -m "chore: update github stats images" || exit 0
+          git add assets/github-stat.svg assets/top-lang.svg
+          git commit -m "chore: update github stats (svg)" || exit 0
           git push
