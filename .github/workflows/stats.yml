@@ -1,16 +1,17 @@
-name: Update GitHub Stats
+name: Update GitHub Stats Images
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # a cada 12 horas
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-stats:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
@@ -19,20 +20,23 @@ jobs:
           theme: tokyonight
           show_icons: true
           include_all_commits: true
-          output: ./assets/github-stats.png
+          scale: 2
+          output: ./assets/github-stat.png
 
       - name: Generate Top Languages
         uses: anuraghazra/github-readme-stats@master
         with:
           username: caioalonso827
           layout: compact
+          langs_count: 9
           theme: tokyonight
-          output: ./assets/top-langs.png
+          scale: 2
+          output: ./assets/top-lang.png
 
       - name: Commit and push images
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add assets/*.png
+          git add assets/github-stat.png assets/top-lang.png
           git commit -m "chore: update github stats" || exit 0
           git push
