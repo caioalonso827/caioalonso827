@@ -46,7 +46,7 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 <p align="left">
   <img
     width="400"
-    src="https://metrics.lecoq.io/caioalonso827?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&theme=tokyonight"
+    src="https://metrics.lecoq.io/caioalonso827?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&base.activity=1&theme=tokyonight"
   />
   <img
     width="400"
