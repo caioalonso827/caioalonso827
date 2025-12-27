@@ -16,13 +16,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Download GitHub Stats image
+      - name: Download GitHub Stats image (retry)
         run: |
-          curl -fL "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png
+          for i in 1 2 3; do
+            curl -L "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api?username=caioalonso827&show_icons=true&theme=tokyonight&include_all_commits=true&format=png&scale=2" -o assets/github-stat.png && break
+            echo "Tentativa $i falhou, tentando novamente..."
+            sleep 10
+          done
 
-      - name: Download Top Languages image
+      - name: Download Top Languages image (retry)
         run: |
-          curl -fL "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png
+          for i in 1 2 3; do
+            curl -L "https://caio-stats-hipm5523x-caios-projects-d88b070e.vercel.app/api/top-langs/?username=caioalonso827&layout=compact&langs_count=9&theme=tokyonight&format=png&scale=2" -o assets/top-lang.png && break
+            echo "Tentativa $i falhou, tentando novamente..."
+            sleep 10
+          done
 
       - name: Commit and push images
         run: |
