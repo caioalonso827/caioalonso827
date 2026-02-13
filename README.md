@@ -61,7 +61,7 @@ Atualmente, estudo e desenvolvo projetos utilizando **Java com Spring Boot** e *
 ## 🎯 Objetivos Atuais
 
 - 📚 Aprofundar conhecimentos em **Java e Spring Boot**
-- 🧠 Evoluir em **C#/.NET e WPF**
+- 🧠 Evoluir em **C#/.NET**
 - 🛠 Desenvolver projetos back-end e APIs
 - 🚀 Conquistar uma oportunidade como **estagiário ou desenvolvedor júnior**
 
