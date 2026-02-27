@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="124.36"
+          width="123.33"
           height="8"
           fill="#b07219"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="124.36"
+          x="123.33"
           y="0"
-          width="120.54"
+          width="121.61"
           height="8"
           fill="#178600"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="244.9"
+          x="244.94"
           y="0"
-          width="15.1"
+          width="15.059999999999999"
           height="8"
           fill="#384d54"
         />
@@ -161,21 +161,21 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 49.74%
+        Java 49.33%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 48.22%
+        C# 48.64%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#384d54" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Dockerfile 2.04%
+        Dockerfile 2.02%
       </text>
     </g>
   </g></g>
