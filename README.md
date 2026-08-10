@@ -6,8 +6,6 @@ Minha formação em Desenvolvimento de Sistemas me proporcionou uma base sólida
 
 Meu foco atual está no desenvolvimento de habilidades em **Python, SQL, Power BI e Excel**, buscando aprender a coletar, tratar, analisar e visualizar dados para transformar informações em insights que possam apoiar decisões.
 
-Também estou realizando a **trilha de conhecimentos da Cisco**, ampliando minha formação em tecnologia e desenvolvendo novos conhecimentos relacionados à área de dados e computação.
-
 Apesar da mudança de foco profissional, continuo mantendo meus conhecimentos em **C#/.NET e Java com Spring Boot**, tecnologias que fazem parte da minha formação e que contribuem para minha base técnica.
 
 ---
