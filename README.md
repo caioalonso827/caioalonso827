@@ -2,34 +2,41 @@
 
 Sou estudante do **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas pelo SENAI**, atualmente no último ano do curso, e estou direcionando minha carreira para a área de **Análise de Dados**.
 
-Minha formação em Desenvolvimento de Sistemas me proporcionou uma base sólida em **programação, bancos de dados, APIs e desenvolvimento de sistemas**, conhecimentos que hoje utilizo como base para minha transição para a área de dados.
+Minha formação em Desenvolvimento de Sistemas me proporcionou uma base sólida em **programação, bancos de dados, APIs e desenvolvimento de sistemas**. Atualmente, estou utilizando essa base para fazer minha transição para a área de dados.
 
-Atualmente, meu principal foco de estudos está em **SQL e Análise de Dados**, buscando desenvolver minha capacidade de transformar dados em informações úteis para apoiar decisões e solucionar problemas.
+Meu foco atual está no desenvolvimento de habilidades em **Python, SQL, Power BI e Excel**, buscando aprender a coletar, tratar, analisar e visualizar dados para transformar informações em insights que possam apoiar decisões.
 
-Apesar da mudança de foco profissional, continuo desenvolvendo e mantendo meus conhecimentos em **C#/.NET** e **Java com Spring Boot**, tecnologias que fazem parte da minha formação e que considero importantes para minha evolução na área de tecnologia.
+Também estou realizando a **trilha de conhecimentos da Cisco**, ampliando minha formação em tecnologia e desenvolvendo novos conhecimentos relacionados à área de dados e computação.
+
+Apesar da mudança de foco profissional, continuo mantendo meus conhecimentos em **C#/.NET e Java com Spring Boot**, tecnologias que fazem parte da minha formação e que contribuem para minha base técnica.
 
 ---
 
 ## 🚀 Linguagens e Tecnologias
 
-### 📊 Dados
+### 📊 Análise de Dados
 
-* SQL
-* Análise de Dados
-* Bancos de Dados Relacionais
+* **Python**
+* **SQL**
+* **Power BI**
+* **Excel**
 
 ### 💻 Desenvolvimento
 
-* C#
-* .NET
-* Java
-* Spring Boot
-* REST APIs
+* **C# / .NET**
+* **Java**
+* **Spring Boot**
+* **REST APIs**
 
-### 🗄️ Banco de Dados
+### 🗄️ Bancos de Dados
 
-* SQL Server
-* PostgreSQL
+* **SQL Server**
+* **PostgreSQL**
+
+### 📚 Formação Complementar
+
+* **Cisco Networking Academy**
+* Trilha de conhecimentos em tecnologia e dados
 
 ---
 
@@ -40,9 +47,12 @@ Apesar da mudança de foco profissional, continuo desenvolvendo e mantendo meus 
 ## 🎯 Objetivos Atuais
 
 * 📊 Aprofundar meus conhecimentos em **Análise de Dados**
-* 🧠 Evoluir cada vez mais em **SQL**
-* 📈 Aprender e aplicar ferramentas utilizadas no mercado de dados
-* 🗄️ Desenvolver projetos envolvendo **análise, tratamento e visualização de dados**
+* 🐍 Evoluir em **Python aplicado à análise de dados**
+* 🗄️ Aprimorar meus conhecimentos em **SQL e bancos de dados**
+* 📈 Desenvolver dashboards e análises utilizando **Power BI**
+* 📊 Aprimorar o uso do **Excel para análise e tratamento de dados**
+* 🧠 Desenvolver projetos práticos envolvendo **coleta, tratamento, análise e visualização de dados**
+* 📚 Concluir e avançar na **trilha de conhecimentos da Cisco**
 * 💻 Continuar aprimorando meus conhecimentos em **C#/.NET e Java/Spring Boot**
 * 🚀 Conquistar uma oportunidade de **estágio na área de Dados**
 
@@ -52,10 +62,12 @@ Apesar da mudança de foco profissional, continuo desenvolvendo e mantendo meus 
 
 **SENAI — Técnico em Desenvolvimento de Sistemas**
 
-📚 3º ano do Ensino Médio
-💻 Último ano do curso técnico
+📚 **3º ano do Ensino Médio**
+💻 **Último ano do curso técnico**
 
-Durante minha formação, desenvolvi conhecimentos em programação, desenvolvimento de sistemas, bancos de dados, APIs e desenvolvimento de aplicações.
+Durante minha formação, desenvolvi conhecimentos em **programação, desenvolvimento de sistemas, bancos de dados, APIs e desenvolvimento de aplicações**.
+
+Atualmente, estou complementando essa formação com estudos direcionados à **Análise de Dados**, com foco em Python, SQL, Power BI e Excel.
 
 ---
 
@@ -67,4 +79,5 @@ Durante minha formação, desenvolvi conhecimentos em programação, desenvolvim
 ---
 
 💬 Gosto de tecnologia, dados e desenvolvimento de software.
-**Sempre buscando aprender, construir projetos e evoluir profissionalmente.**
+
+**Sempre buscando aprender, construir projetos e transformar dados em soluções.**
