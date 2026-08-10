@@ -38,10 +38,6 @@ Apesar da mudança de foco profissional, continuo mantendo meus conhecimentos em
 
 ---
 
-## 📊 Estatísticas do GitHub
-
----
-
 ## 🎯 Objetivos Atuais
 
 * 📊 Aprofundar meus conhecimentos em **Análise de Dados**
