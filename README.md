@@ -1,77 +1,50 @@
-# 👨‍💻 Olá, eu sou o Caio Borsato Alonso
+# Olá, eu sou o Caio Borsato Alonso 👋
 
-Sou estudante do **3º ano do Ensino Médio Técnico em Desenvolvimento de Sistemas pelo SENAI**, atualmente no último ano do curso, e estou direcionando minha carreira para a área de **Análise de Dados**.
+**Análise de Dados em formação | Power BI • PostgreSQL • Excel**
 
-Minha formação em Desenvolvimento de Sistemas me proporcionou uma base sólida em **programação, bancos de dados, APIs e desenvolvimento de sistemas**. Atualmente, estou utilizando essa base para fazer minha transição para a área de dados.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square)](https://www.linkedin.com/in/caio-alonso-455358261/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-444444?style=flat-square)](mailto:caioca827@gmail.com)
 
-Meu foco atual está no desenvolvimento de habilidades em **Python, SQL, Power BI e Excel**, buscando aprender a coletar, tratar, analisar e visualizar dados para transformar informações em insights que possam apoiar decisões.
+## Sobre mim
 
-Apesar da mudança de foco profissional, continuo mantendo meus conhecimentos em **C#/.NET e Java com Spring Boot**, tecnologias que fazem parte da minha formação e que contribuem para minha base técnica.
+Sou estudante do último ano do **Ensino Médio Técnico em Desenvolvimento de Sistemas pelo SENAI**, com foco de carreira em **Análise de Dados e Business Intelligence**.
 
----
+Meus estudos na área de dados estão concentrados em **Power BI, PostgreSQL e Excel**. Estou começando a aprender **Python**, com o objetivo de aplicá-lo ao tratamento e à análise de dados.
 
-## 🚀 Linguagens e Tecnologias
+Minha formação também inclui **Java com Spring Boot, C#/.NET, bancos de dados e APIs REST**. Essa base contribui para minha compreensão de como os dados são gerados, armazenados e disponibilizados pelas aplicações.
 
-### 📊 Análise de Dados
+Busco uma **oportunidade de estágio na área de Dados**, para aplicar meus conhecimentos, aprender com profissionais da área e contribuir com análises que apoiem decisões.
 
-* **Python**
-* **SQL**
-* **Power BI**
-* **Excel**
+## Tecnologias e conhecimentos
 
-### 💻 Desenvolvimento
+| Área | Tecnologias |
+| --- | --- |
+| Análise e visualização de dados | Power BI e Excel |
+| Consultas e bancos de dados | SQL, PostgreSQL e SQL Server |
+| Linguagem em aprendizado | Python — fundamentos, com foco futuro em análise de dados |
+| Desenvolvimento back-end | Java, Spring Boot, C# e .NET |
+| Integração de sistemas | APIs REST |
 
-* **C# / .NET**
-* **Java**
-* **Spring Boot**
-* **REST APIs**
+## Foco de aprendizado
 
-### 🗄️ Bancos de Dados
+- **Power BI:** aprofundar a criação de dashboards e a comunicação de indicadores.
+- **SQL e PostgreSQL:** aprimorar consultas para explorar, organizar e analisar dados.
+- **Excel:** evoluir no tratamento, na organização e na análise de informações.
+- **Python:** consolidar os fundamentos da linguagem e avançar para aplicações em dados.
+- **Projetos práticos:** conectar perguntas de negócio à preparação, análise e visualização de dados.
 
-* **SQL Server**
-* **PostgreSQL**
+## Formação
 
-### 📚 Formação Complementar
+**SENAI — Ensino Médio integrado ao Técnico em Desenvolvimento de Sistemas**  
+Conclusão prevista: **2026**.
 
-* **Cisco Networking Academy**
-* Trilha de conhecimentos em tecnologia e dados
+Formação em programação, bancos de dados, desenvolvimento de aplicações e APIs, complementada por estudos direcionados à área de dados.
 
----
+**Estudos complementares:** trilha de conhecimentos em andamento na Cisco Networking Academy.
 
-## 🎯 Objetivos Atuais
+## Contato
 
-* 📊 Aprofundar meus conhecimentos em **Análise de Dados**
-* 🐍 Evoluir em **Python aplicado à análise de dados**
-* 🗄️ Aprimorar meus conhecimentos em **SQL e bancos de dados**
-* 📈 Desenvolver dashboards e análises utilizando **Power BI**
-* 📊 Aprimorar o uso do **Excel para análise e tratamento de dados**
-* 🧠 Desenvolver projetos práticos envolvendo **coleta, tratamento, análise e visualização de dados**
-* 📚 Concluir e avançar na **trilha de conhecimentos da Cisco**
-* 💻 Continuar aprimorando meus conhecimentos em **C#/.NET e Java/Spring Boot**
-* 🚀 Conquistar uma oportunidade de **estágio na área de Dados**
+Estou aberto a oportunidades de estágio e à troca de conhecimentos sobre dados e desenvolvimento.
 
----
-
-## 🎓 Formação
-
-**SENAI — Técnico em Desenvolvimento de Sistemas**
-
-📚 **3º ano do Ensino Médio**
-💻 **Último ano do curso técnico**
-
-Durante minha formação, desenvolvi conhecimentos em **programação, desenvolvimento de sistemas, bancos de dados, APIs e desenvolvimento de aplicações**.
-
-Atualmente, estou complementando essa formação com estudos direcionados à **Análise de Dados**, com foco em Python, SQL, Power BI e Excel.
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** [caioca827@gmail.com](mailto:caioca827@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/caio-alonso-455358261](https://www.linkedin.com/in/caio-alonso-455358261/)
-
----
-
-💬 Gosto de tecnologia, dados e desenvolvimento de software.
-
-**Sempre buscando aprender, construir projetos e transformar dados em soluções.**
+- **LinkedIn:** [Caio Alonso](https://www.linkedin.com/in/caio-alonso-455358261/)
+- **E-mail:** [caioca827@gmail.com](mailto:caioca827@gmail.com)
