@@ -13,7 +13,7 @@
 
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="" />
+---
 
 ## 👨‍💻 Sobre mim
 
@@ -52,11 +52,9 @@ Sou **Caio Borsato Alonso**, estudante do último ano do **Ensino Médio Técnic
 
 </div>
 
-<img src="assets/divider.gif" width="100%" alt="" />
+---
 
 ## 🚀 Minha jornada em dados
-
-<img src="assets/learning.gif" width="100%" alt="Foco de aprendizado: explorar com SQL e PostgreSQL, organizar com Excel, visualizar com Power BI e evoluir em Python." />
 
 | Foco | Próximos passos |
 | :--- | :--- |
@@ -70,6 +68,16 @@ Sou **Caio Borsato Alonso**, estudante do último ano do **Ensino Médio Técnic
 Para cada projeto, apresente: pergunta de negócio, ferramentas, imagem e principais conclusões.
 -->
 
+## 🐍 Minha atividade no GitHub
+
+<div align="center">
+
+<img src="assets/github-snake.svg" width="100%" alt="Animação da cobrinha percorrendo meu gráfico de contribuições do GitHub." />
+
+<sub>Um quadradinho de cada vez. Aprendizado contínuo, na prática.</sub>
+
+</div>
+
 ## 🎓 Formação
 
 **SENAI · Técnico em Desenvolvimento de Sistemas integrado ao Ensino Médio**  
@@ -79,7 +87,7 @@ Base em programação, bancos de dados, APIs e desenvolvimento de aplicações, 
 
 📚 **Cisco Networking Academy:** trilha de conhecimentos em andamento.
 
-<img src="assets/divider.gif" width="100%" alt="" />
+---
 
 <div align="center">
 
