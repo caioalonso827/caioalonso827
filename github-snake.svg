@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160" role="img" aria-labelledby="title desc">
-<title id="title">Cobrinha de contribuições — aguardando configuração</title>
-<desc id="desc">Execute Atualizar cobrinha na aba Actions do seu repositório para gerar a animação com suas contribuições reais.</desc>
-<rect width="1000" height="160" rx="16" fill="#0B1220"/>
-<text x="500" y="65" text-anchor="middle" fill="#56E0E6" font-family="Arial,sans-serif" font-size="23" font-weight="bold">SUA JORNADA, UM QUADRADINHO DE CADA VEZ.</text>
-<text x="500" y="103" text-anchor="middle" fill="#A8B9D4" font-family="Arial,sans-serif" font-size="17">Aguardando primeira geração: Actions → Atualizar cobrinha → Run workflow</text>
-</svg>
