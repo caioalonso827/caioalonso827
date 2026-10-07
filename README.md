@@ -2,15 +2,6 @@
 
 <img src="assets/header.gif" width="100%" alt="Caio Borsato Alonso — Análise de Dados em formação. Power BI, PostgreSQL e Excel." />
 
-### 📊 Análise de Dados & Business Intelligence
-**Base em desenvolvimento de sistemas · Python em aprendizado**
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Vamos_conversar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-alonso-455358261/)
-[![Email](https://img.shields.io/badge/EMAIL-Entre_em_contato-5765D8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioca827@gmail.com)
-
-![Estágio](https://img.shields.io/badge/OBJETIVO-Estágio_em_Dados-56E0E6?style=flat-square&labelColor=101D30)
-![Formação](https://img.shields.io/badge/SENAI-Conclusão_em_2026-AA91FF?style=flat-square&labelColor=101D30)
-
 </div>
 
 ---
